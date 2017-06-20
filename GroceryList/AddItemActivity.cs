@@ -23,7 +23,8 @@ namespace GroceryList {
 		}
 
 		void OnCancelClick(object sender, EventArgs e) {
-			// TODO
+            // Completes the activity
+            Finish();
 		}
 	}
 }

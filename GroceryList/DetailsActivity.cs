@@ -11,7 +11,8 @@ namespace GroceryList {
 
 			int position = 0;
 
-			// TODO
+            // Default value is -1 if key can't be found
+            position = Intent.GetIntExtra("ItemPosition", -1);
 
 			var item = MainActivity.Items[position];
 
