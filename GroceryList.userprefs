@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{983BAE72-A11B-4D4E-A2E0-7295E5F1C24C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GroceryList/AddItemActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroceryList/AboutActivity.cs">
     <Files>
-      <File FileName="GroceryList/MainActivity.cs" Line="42" Column="2" />
-      <File FileName="GroceryList/AboutActivity.cs" Line="21" Column="2" />
-      <File FileName="GroceryList/AddItemActivity.cs" Line="1" Column="1" />
-      <File FileName="GroceryList/DetailsActivity.cs" Line="1" Column="1" />
-      <File FileName="GroceryList/Item.cs" Line="1" Column="1" />
-      <File FileName="GroceryList/ItemsActivity.cs" Line="1" Column="1" />
+      <File FileName="GroceryList/MainActivity.cs" Line="43" Column="56" />
+      <File FileName="GroceryList/AboutActivity.cs" Line="4" Column="18" />
+      <File FileName="GroceryList/AddItemActivity.cs" Line="27" Column="75" />
+      <File FileName="GroceryList/DetailsActivity.cs" Line="14" Column="57" />
+      <File FileName="GroceryList/Item.cs" Line="15" Column="2" />
+      <File FileName="GroceryList/ItemsActivity.cs" Line="25" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
